@@ -92,5 +92,8 @@ same as we did in [test-gpio project](https://github.com/ahosny333/test-gpio)
 	
 > 8- in this project we did not use HTTPD dynamic headers so we use custom data files in io_fsdata.h instead of files used in original project 
 
-
+## Sponsored by
+<a href = "https://the-diy-life.co">
+<img src="https://the-diy-life.co/images/logo_diylife.jpg"  width="248" height="248">
+</a>
 
